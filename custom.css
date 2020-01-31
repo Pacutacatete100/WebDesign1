@@ -78,9 +78,10 @@ a {
 }
 
 .box {
-	width: 15%;
+	width: 45%;
 	height: 90%;
 	background-color: darkorange;
+	justify-content: center;
 }
 
 .sanic {
